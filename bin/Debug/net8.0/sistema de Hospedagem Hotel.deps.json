@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "sistema de Hospedagem Hotel/1.0.0": {
+        "runtime": {
+          "sistema de Hospedagem Hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistema de Hospedagem Hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

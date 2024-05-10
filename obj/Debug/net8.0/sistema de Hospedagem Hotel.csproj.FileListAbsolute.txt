@@ -1,0 +1,14 @@
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.AssemblyInfoInputs.cache
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.AssemblyInfo.cs
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.csproj.CoreCompileInputs.cache
+/home/soares/Documentos/sistema de Hospedagem Hotel/bin/Debug/net8.0/sistema de Hospedagem Hotel
+/home/soares/Documentos/sistema de Hospedagem Hotel/bin/Debug/net8.0/sistema de Hospedagem Hotel.deps.json
+/home/soares/Documentos/sistema de Hospedagem Hotel/bin/Debug/net8.0/sistema de Hospedagem Hotel.runtimeconfig.json
+/home/soares/Documentos/sistema de Hospedagem Hotel/bin/Debug/net8.0/sistema de Hospedagem Hotel.dll
+/home/soares/Documentos/sistema de Hospedagem Hotel/bin/Debug/net8.0/sistema de Hospedagem Hotel.pdb
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.dll
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/refint/sistema de Hospedagem Hotel.dll
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.pdb
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/sistema de Hospedagem Hotel.genruntimeconfig.cache
+/home/soares/Documentos/sistema de Hospedagem Hotel/obj/Debug/net8.0/ref/sistema de Hospedagem Hotel.dll
